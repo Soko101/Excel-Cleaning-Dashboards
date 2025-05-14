@@ -1,11 +1,9 @@
 # Excel-Cleaning-Dashboards
 Cleaned bike buyers excel dataset and created dashboards to visualise different trends
-- Situation: The original bike_buyers dataset included customer demographics, 
-- lifestyle attributes, and a target variable (Purchased Bike).
+- Situation: The original bike_buyers dataset included customer demographics, lifestyle attributes, and a target variable (Purchased Bike).
 - However, it contained inconsistent formatting and lacked useful derived insights for analysis.
 
-- Task: Prepare the dataset for exploratory analysis and dashboard reporting by standardizing
-- values, correcting format issues, and engineering additional features for segmentation.
+- Task: Prepare the dataset for exploratory analysis and dashboard reporting by standardizing values, correcting format issues, and engineering additional features for segmentation.
 
 Action:
 
