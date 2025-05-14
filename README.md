@@ -26,8 +26,8 @@ Action:
 - Used Excel slicers and charts in the Dashboard sheet to allow dynamic filtering and comparison of customer segments.
 - Visualized high-conversion groups (e.g., Middle-aged professionals with higher income and car ownership).
 
-- Result: An intuitive dashboard allowing business stakeholders to easily explore
-- relationships between demographics and bike purchases — useful for tailoring marketing campaigns and understanding customer behavior patterns.
+- Result: An intuitive dashboard allowing business stakeholders to easily explore relationships between demographics and bike purchases
+— useful for tailoring marketing campaigns and understanding customer behavior patterns.
 
 🛠 Tools & Skills Used:
 - Excel (Power Query, Pivot Tables, Dashboards)
